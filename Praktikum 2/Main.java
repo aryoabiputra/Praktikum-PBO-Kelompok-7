@@ -26,5 +26,6 @@ public class Main {
         System.out.println("Alamat : " + alamat);
         System.out.println("Umur : " + umur);
         System.out.println("Golongan Darah : " + golonganDarah);
+        
     }
 }
