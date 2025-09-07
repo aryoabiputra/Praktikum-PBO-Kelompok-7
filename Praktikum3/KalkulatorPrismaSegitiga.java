@@ -26,10 +26,10 @@ public class KalkulatorPrismaSegitiga {
         // menghitung luas alas segitiga
         double luasAlas = 0.5 * panjangAlas * tinggiAlas;
 
-        // menghitung volume prisma
+        // menghitung volume prisma segitiga
         double volume = luasAlas * tinggiPrisma;
 
-        // menghitung luas permukaan prisma
+        // menghitung luas permukaan prisma segitiga
         double kelilingAlas = panjangAlas + sisiKedua + sisiKetiga;
         double luasPermukaan = (2 * luasAlas) + (kelilingAlas * tinggiPrisma);
 
