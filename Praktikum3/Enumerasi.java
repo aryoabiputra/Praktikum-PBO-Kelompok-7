@@ -1,3 +1,4 @@
+package Praktikum3;
 public class Enumerasi {
     public static void main(String[] args) {
         enum Hari {

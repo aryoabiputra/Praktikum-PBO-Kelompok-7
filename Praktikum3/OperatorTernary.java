@@ -1,3 +1,4 @@
+package Praktikum3;
 
 public class OperatorTernary {
     public static void main(String[] args) {

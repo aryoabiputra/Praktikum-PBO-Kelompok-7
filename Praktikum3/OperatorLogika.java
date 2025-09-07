@@ -1,3 +1,4 @@
+package Praktikum3;
 public class OperatorLogika {
 
     public static void main(String[] args) {
