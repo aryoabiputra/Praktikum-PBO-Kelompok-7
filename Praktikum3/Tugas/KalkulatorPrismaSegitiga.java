@@ -1,4 +1,4 @@
-package Praktikum3;
+package Praktikum3.Tugas;
 import java.util.Scanner;
 
 public class KalkulatorPrismaSegitiga {

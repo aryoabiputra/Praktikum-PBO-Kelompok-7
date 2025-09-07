@@ -1,4 +1,4 @@
-package Praktikum3;
+package Praktikum3.Materi;
 
 public class OperatorBitwise {
     public static void main(String[] args) {

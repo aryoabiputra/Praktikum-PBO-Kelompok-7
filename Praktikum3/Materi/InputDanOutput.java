@@ -1,4 +1,4 @@
-package Praktikum3;
+package Praktikum3.Materi;
 import java.util.Scanner;
 
 public class InputDanOutput {
