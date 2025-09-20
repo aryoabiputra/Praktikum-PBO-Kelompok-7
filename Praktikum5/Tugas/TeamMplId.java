@@ -47,6 +47,7 @@ public class TeamMplId {
     public void tampilkanInfo(boolean tampilkanJulukan, int jumlahJuara) {
         System.out.println("Nama Tim            : " + namaTeam);
         System.out.println("Tahun Berdiri       : " + tahunBerdiri);
+        System.out.println("Julukan             : " + julukan);
         System.out.println("Jumlah Juara MPL ID : " + jumlahJuara);
         System.out.println();
     }
