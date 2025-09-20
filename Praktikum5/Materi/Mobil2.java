@@ -1,5 +1,5 @@
 public class Mobil2 {
-    // Atriubut
+    // Atribut
     private String merek;
     private String warna;
     private int tahun;
