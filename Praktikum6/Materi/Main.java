@@ -13,7 +13,9 @@ public class Main {
 
         // p1.namaSupplier(); // error karena private
         p1.namaSupplierFix();
+        System.out.println();
         p2.tampilkanInfo();
+        System.out.println();
 
         System.out.println("Nama produk 1 : " + p1.nama);
         // System.out.println(p1.harga); // error karena private
@@ -24,5 +26,6 @@ public class Main {
         System.out.println("Harga baru untuk produk 1 : " + p1.getHarga());
 
         Produk.infoJumlahProduk();
+        System.out.println();
     }
 }

@@ -47,6 +47,6 @@ public class Produk {
     }
 
     public static void infoJumlahProduk(){
-        System.out.println("Total produk yang telah dibuat :" + jumlahProduk);
+        System.out.println("Total produk yang telah dibuat : " + jumlahProduk);
     }
 }
