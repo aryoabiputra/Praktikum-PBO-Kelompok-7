@@ -1,4 +1,4 @@
-package com.mycompany.praktikum8;
+package Praktikum8.Materi;
 
 import java.awt.*;
 

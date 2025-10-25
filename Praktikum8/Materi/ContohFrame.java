@@ -1,16 +1,10 @@
 package Praktikum8.Materi;
-import java.awt.Color;
-import java.awt.Font;
-
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JTextField;
-import javax.swing.SwingConstants;
+import java.awt.*;
+import javax.swing.*;
 
 public class ContohFrame {
     public static void maian(String[] args) {
+        
         // Membuat JFrame
         JFrame frame = new JFrame("Judul Window");
 
