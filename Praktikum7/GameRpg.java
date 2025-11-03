@@ -1,6 +1,7 @@
+
 import java.util.*;
 
-public class Responsi {
+public class GameRpg{
 
     public static void main(String[] args) {
 

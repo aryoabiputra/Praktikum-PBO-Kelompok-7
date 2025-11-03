@@ -7,6 +7,6 @@ public class Main {
         javax.swing.SwingUtilities.invokeLater(() -> {
             new Kalkulator().setVisible(true);
         });
-    }
+    }   
 }
 
