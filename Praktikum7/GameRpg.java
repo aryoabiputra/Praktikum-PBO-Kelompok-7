@@ -259,6 +259,7 @@ class Mage extends Player {
     //}
 }
 
+
 class Asassin extends Player {
 
     Random rand = new Random();
